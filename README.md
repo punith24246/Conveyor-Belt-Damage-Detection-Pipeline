@@ -147,11 +147,7 @@ python pipeline.py \
 - Annotated images in output/
 - JSON predictions per image
 - ROI visualizations in output/visualizations/
-- Important Note
-- Dataset contains only belt annotations
-- No defect-level labels provided
-- Hybrid approach (YOLO + classical CV) used
-- Evaluation performed using hidden ground truth
+
 
 
 
