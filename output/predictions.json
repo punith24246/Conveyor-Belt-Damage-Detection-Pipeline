@@ -1,0 +1,794 @@
+[
+  {
+    "image": "20260201_012503_874119_jpg.rf.676c5f7904942195bc83eb7ecf640bfe.jpg",
+    "prediction": "edge_damage",
+    "score": 0.005082224445190316,
+    "bbox": [
+      609,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_012903_874619_jpg.rf.ed494a96bda12609311fff6c239abe9a.jpg",
+    "prediction": "normal",
+    "score": 0.0005910125130782673,
+    "bbox": [
+      609,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_013103_875385_jpg.rf.9545fa47f68dec44a09a9264d7ca0352.jpg",
+    "prediction": "normal",
+    "score": 0.002956858268483256,
+    "bbox": [
+      609,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_013503_876586_jpg.rf.1093ddacf168989ee0f2d413e202fb84.jpg",
+    "prediction": "normal",
+    "score": 0.0028010338200528955,
+    "bbox": [
+      681,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_013603_877246_jpg.rf.fdecfe15231484f0562f58c650358265.jpg",
+    "prediction": "edge_damage",
+    "score": 0.007177162903638165,
+    "bbox": [
+      681,
+      76,
+      3158,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_014203_879001_jpg.rf.b941b802e47c32c6daa8c77d19f2486f.jpg",
+    "prediction": "edge_damage",
+    "score": 0.025335719136362584,
+    "bbox": [
+      849,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_014603_880744_jpg.rf.dc6ba190200af6fbd435923311056357.jpg",
+    "prediction": "edge_damage",
+    "score": 0.040731646117973384,
+    "bbox": [
+      777,
+      76,
+      3074,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_015503_883644_jpg.rf.374f80777a9a23343910a214d059c916.jpg",
+    "prediction": "edge_damage",
+    "score": 0.05412935603130897,
+    "bbox": [
+      681,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_015703_885681_jpg.rf.2fa9871aef454ebf0a4498bbb4221875.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01267910125393436,
+    "bbox": [
+      705,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_020703_888269_jpg.rf.1859acc65e81c45f12661154acde5db9.jpg",
+    "prediction": "edge_damage",
+    "score": 0.030600295350911254,
+    "bbox": [
+      777,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_020803_889307_jpg.rf.2c57290ba5fc02305572624b016da43f.jpg",
+    "prediction": "edge_damage",
+    "score": 0.02118289300709527,
+    "bbox": [
+      729,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_021703_893161_jpg.rf.2d9ba5acd085b0697267c14812088a9d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.012634019541039892,
+    "bbox": [
+      609,
+      76,
+      3086,
+      2100
+    ]
+  },
+  {
+    "image": "20260201_022903_899077_jpg.rf.dc76b3775cc0466601bdc1710feccaf8.jpg",
+    "prediction": "edge_damage",
+    "score": 0.020857899433817124,
+    "bbox": [
+      801,
+      76,
+      3158,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_023603_902968_jpg.rf.df0778ce6c0b5e6d39626992ea14254c.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01824728541907702,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_024303_903780_jpg.rf.c3c7fa36f80ed50b010851f1d5be9020.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01622703877226514,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_025503_908016_jpg.rf.2173754c89ca9a34171feb907dee506d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.015953489665436183,
+    "bbox": [
+      777,
+      76,
+      3080,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_025903_908827_jpg.rf.db316cb9bb2267e8d10abc0ce6bbcb96.jpg",
+    "prediction": "edge_damage",
+    "score": 0.010846984374469583,
+    "bbox": [
+      585,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_030103_915473_jpg.rf.257da48736d25b6c6358fcb80adf3b01.jpg",
+    "prediction": "edge_damage",
+    "score": 0.02067884756298768,
+    "bbox": [
+      753,
+      76,
+      3032,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_031703_918118_jpg.rf.226f1c31944d26149a825cd202ad6ed3.jpg",
+    "prediction": "edge_damage",
+    "score": 0.02928917103108918,
+    "bbox": [
+      681,
+      76,
+      3182,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_032903_926156_jpg.rf.36de10e01ee794c4d72d44483dca9ccb.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01434716512804983,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_033503_928460_jpg.rf.80a28909cdd23169ba3d0d66f44d7063.jpg",
+    "prediction": "edge_damage",
+    "score": 0.018497105183354755,
+    "bbox": [
+      657,
+      76,
+      3110,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_033603_928207_jpg.rf.8f52b934531f20cfa4cf67a868b20d71.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01808261322718977,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_033703_928466_jpg.rf.e9b64064d49b52f3b441b44a8e5d256b.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01893609714855662,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_033903_928517_jpg.rf.84e69cd8d1e5623ccf79a4a1c95b5661.jpg",
+    "prediction": "edge_damage",
+    "score": 0.018989210597973323,
+    "bbox": [
+      657,
+      76,
+      3110,
+      2100
+    ]
+  },
+  {
+    "image": "20260201_034003_928469_jpg.rf.17d86f05f20c000a39ea773144bd5cdc.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01760710855137857,
+    "bbox": [
+      585,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_034403_929146_jpg.rf.45dc505cf421c6d1f6b2d2b9f87cc347.jpg",
+    "prediction": "edge_damage",
+    "score": 0.02019107811570484,
+    "bbox": [
+      585,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_043303_953143_jpg.rf.e456c320b92c5e5bbfb825f58d4931c1.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01647726017603528,
+    "bbox": [
+      681,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_044003_955841_jpg.rf.7ceca7406c25cc5377be4c904aba0455.jpg",
+    "prediction": "edge_damage",
+    "score": 0.018349703489641045,
+    "bbox": [
+      681,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_044903_959053_jpg.rf.7d47b321edf852da174a52d20211e0c4.jpg",
+    "prediction": "edge_damage",
+    "score": 0.018386252683450167,
+    "bbox": [
+      705,
+      76,
+      3158,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_050103_964013_jpg.rf.441d86a0da0ddd40c3adf87f9df56544.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01619761418754467,
+    "bbox": [
+      921,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_050403_963592_jpg.rf.0dce28fbe35efd6ce98533532b0e556d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01332338410459458,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2128
+    ]
+  },
+  {
+    "image": "20260201_051003_968234_jpg.rf.1c18ae5c2fbb4bebbfa21853516c890d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.009836910196272967,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2100
+    ]
+  },
+  {
+    "image": "20260201_053003_976459_jpg.rf.1eccad34bcdb3c14a2f3338b2158ee4e.jpg",
+    "prediction": "edge_damage",
+    "score": 0.009867632250421064,
+    "bbox": [
+      801,
+      53,
+      3074,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_053903_979099_jpg.rf.f28743f00bc3d3a3e7c4ccb615064b2d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.015796360678901923,
+    "bbox": [
+      705,
+      76,
+      3152,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_060203_986944_jpg.rf.a6136fabf488e11690f7338b66aabcac.jpg",
+    "prediction": "edge_damage",
+    "score": 0.015067659347508843,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2100
+    ]
+  },
+  {
+    "image": "20260201_061003_990420_jpg.rf.c2d70132f8392550daa2d5fa30e4317c.jpg",
+    "prediction": "edge_damage",
+    "score": 0.014193390389209332,
+    "bbox": [
+      753,
+      76,
+      3026,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_062003_994673_jpg.rf.8bde59337f3568fc54f5a4ead3466d92.jpg",
+    "prediction": "edge_damage",
+    "score": 0.015321591048712318,
+    "bbox": [
+      609,
+      76,
+      3086,
+      2100
+    ]
+  },
+  {
+    "image": "20260201_063003_999442_jpg.rf.b682f0957e73e9c338b898a7ae6891d5.jpg",
+    "prediction": "edge_damage",
+    "score": 0.010969577816645351,
+    "bbox": [
+      609,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_064104_004597_jpg.rf.ad91a1e27ceb91728bca1689f99ef939.jpg",
+    "prediction": "edge_damage",
+    "score": 0.019546132396892103,
+    "bbox": [
+      777,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_064304_006923_jpg.rf.d9763e339025cb570a661386aeeb1655.jpg",
+    "prediction": "edge_damage",
+    "score": 0.021313920581662364,
+    "bbox": [
+      585,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_064604_008947_jpg.rf.58ace1b8d157f11f9f53809922357386.jpg",
+    "prediction": "edge_damage",
+    "score": 0.015047912149398964,
+    "bbox": [
+      681,
+      76,
+      3146,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_070104_012805_jpg.rf.62f364376965c94f5726ea7de8d55c69.jpg",
+    "prediction": "edge_damage",
+    "score": 0.00878932115427728,
+    "bbox": [
+      657,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_070604_016700_jpg.rf.d972e4c010a2a520994d13f64b08fb9b.jpg",
+    "prediction": "edge_damage",
+    "score": 0.0210299285445764,
+    "bbox": [
+      561,
+      76,
+      3038,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_145401_001756_jpg.rf.00af06e2b3f3bac4be4bf7851e4dfb03.jpg",
+    "prediction": "edge_damage",
+    "score": 0.006068020605998871,
+    "bbox": [
+      753,
+      76,
+      3026,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_145601_003862_jpg.rf.ecb40136c6ce2a0d75fda82d9a3f02c2.jpg",
+    "prediction": "normal",
+    "score": 0.004868714851536368,
+    "bbox": [
+      657,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_145901_002143_jpg.rf.ca466a7446d739d5efae19d794cb5b79.jpg",
+    "prediction": "edge_damage",
+    "score": 0.005501450785650546,
+    "bbox": [
+      585,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_150301_006167_jpg.rf.c7dea9d499fe4258afc6b01dd360a37b.jpg",
+    "prediction": "scratch",
+    "score": 0.0028564091380629294,
+    "bbox": [
+      705,
+      76,
+      3122,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_150401_006175_jpg.rf.0c9aa98eff9fd4e18e765f35673517f1.jpg",
+    "prediction": "scratch",
+    "score": 0.010360366723641413,
+    "bbox": [
+      681,
+      76,
+      3122,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_152101_013707_jpg.rf.4fa79a822e87d0b8d36b25d9ed41e485.jpg",
+    "prediction": "edge_damage",
+    "score": 0.11028804247524061,
+    "bbox": [
+      633,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_154101_020304_jpg.rf.96405b79b97980d8cafd8f2dc2507d97.jpg",
+    "prediction": "edge_damage",
+    "score": 0.00699556182641984,
+    "bbox": [
+      681,
+      76,
+      3104,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_155101_024050_jpg.rf.af8512f51477010ec3ef99d83b9d2f55.jpg",
+    "prediction": "edge_damage",
+    "score": 0.005780170507403154,
+    "bbox": [
+      753,
+      76,
+      3014,
+      2106
+    ]
+  },
+  {
+    "image": "20260201_155901_027775_jpg.rf.cd9dd0ba55136d893e2b16871710ae89.jpg",
+    "prediction": "normal",
+    "score": 0.004244190978248522,
+    "bbox": [
+      681,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_013701_281206_jpg.rf.bca7c69bbe50dddad786acd8852c4f9c.jpg",
+    "prediction": "edge_damage",
+    "score": 0.008123216846006226,
+    "bbox": [
+      681,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_030501_314290_jpg.rf.05c99f497d1e05fa0f07c20ea392e0b0.jpg",
+    "prediction": "edge_damage",
+    "score": 0.015343249643130859,
+    "bbox": [
+      705,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_043901_356706_jpg.rf.4795d23d4a615c2daebf8052e80f1558.jpg",
+    "prediction": "edge_damage",
+    "score": 0.020553836867119993,
+    "bbox": [
+      729,
+      76,
+      3014,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_060301_394804_jpg.rf.8b2b77ea5bb3eea1e47f27881d29ed2a.jpg",
+    "prediction": "edge_damage",
+    "score": 0.017462685845673873,
+    "bbox": [
+      657,
+      76,
+      3110,
+      2100
+    ]
+  },
+  {
+    "image": "20260202_060401_392455_jpg.rf.02497e8e859e1e66a5cb1494b3b7808b.jpg",
+    "prediction": "edge_damage",
+    "score": 0.017311221719307705,
+    "bbox": [
+      657,
+      76,
+      3110,
+      2100
+    ]
+  },
+  {
+    "image": "20260202_061101_394698_jpg.rf.049effd77fe89317f199166cb2bea5c8.jpg",
+    "prediction": "edge_damage",
+    "score": 0.017312247653430545,
+    "bbox": [
+      777,
+      76,
+      3050,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_062101_399488_jpg.rf.71b5862c0744f4892d07afcfd967798e.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01727433893798893,
+    "bbox": [
+      633,
+      76,
+      3110,
+      2100
+    ]
+  },
+  {
+    "image": "20260202_062701_401650_jpg.rf.fcdda79b9ae724a657181af9d7105b95.jpg",
+    "prediction": "edge_damage",
+    "score": 0.018370262113500936,
+    "bbox": [
+      657,
+      76,
+      3110,
+      2100
+    ]
+  },
+  {
+    "image": "20260202_062901_401465_jpg.rf.bce93d3abb2ac71a9206fcdac6b73ce4.jpg",
+    "prediction": "edge_damage",
+    "score": 0.018654861595622473,
+    "bbox": [
+      657,
+      76,
+      3110,
+      2100
+    ]
+  },
+  {
+    "image": "20260202_063501_403808_jpg.rf.09111fce164139d0cdb4135b4edea68f.jpg",
+    "prediction": "edge_damage",
+    "score": 0.019344473144109503,
+    "bbox": [
+      753,
+      76,
+      3074,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_070001_415746_jpg.rf.05c56c552e2b5afbbeec1e801f7e993e.jpg",
+    "prediction": "edge_damage",
+    "score": 0.033359930193901065,
+    "bbox": [
+      753,
+      76,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260202_141458_527265_jpg.rf.ab59d62cf86535b06a76cf55bed184f7.jpg",
+    "prediction": "edge_damage",
+    "score": 0.010671686384470686,
+    "bbox": [
+      801,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_042059_012807_jpg.rf.2c160a1d7395b48f65e85bb74d17937d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.025145257434160795,
+    "bbox": [
+      753,
+      53,
+      3062,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_042759_013528_jpg.rf.b4717293d65bd1e9e72cf4ece996ffb6.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01493975708140451,
+    "bbox": [
+      705,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_044759_031973_jpg.rf.d8b0ce751b78afdb5fd2fd03d70a0f00.jpg",
+    "prediction": "edge_damage",
+    "score": 0.014898013691887304,
+    "bbox": [
+      681,
+      76,
+      3134,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_051359_043146_jpg.rf.47c7ab3c47d647521da2d6a945886162.jpg",
+    "prediction": "edge_damage",
+    "score": 0.017976738420407673,
+    "bbox": [
+      873,
+      76,
+      3158,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_052859_062945_jpg.rf.f28ff4791fff1d4f3dd35043b655ee6d.jpg",
+    "prediction": "edge_damage",
+    "score": 0.01273578748450922,
+    "bbox": [
+      633,
+      76,
+      3086,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_053059_059522_jpg.rf.48813dcdbdeef179d7209224cf55c331.jpg",
+    "prediction": "edge_damage",
+    "score": 0.021197413419747273,
+    "bbox": [
+      801,
+      76,
+      3110,
+      2106
+    ]
+  },
+  {
+    "image": "20260203_053459_067832_jpg.rf.ddfe27515074d68c42557e19261d2279.jpg",
+    "prediction": "edge_damage",
+    "score": 0.013619485054194021,
+    "bbox": [
+      609,
+      76,
+      3062,
+      2100
+    ]
+  },
+  {
+    "image": "20260203_053859_067874_jpg.rf.fda9a336b4d645de4e3e1f027405d8d4.jpg",
+    "prediction": "edge_damage",
+    "score": 0.019521469440026664,
+    "bbox": [
+      585,
+      76,
+      3062,
+      2106
+    ]
+  }
+]
